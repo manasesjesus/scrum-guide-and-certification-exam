@@ -25,14 +25,13 @@
   - [Sprint Retrospective](#sprint-retrospective)
 - [Scrum Artifacts](#scrum-artifacts)
   - [Product Backlog](#product-backlog)
-    - [Commitment: Product Goal](#commitment-product-goal)
   - [Sprint Backlog](#sprint-backlog)
-    - [Commitment: Sprint Goal](#commitment-sprint-goal)
   - [Increment](#increment)
-    - [Commitment: Definition of Done](#commitment-definition-of-done)
+- [Final thoughts](#final-thoughts)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Scrum Definition
 
 Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
@@ -245,7 +244,7 @@ Product Backlog items that can be Done by the Scrum Team within one Sprint are d
 
 The Developers who will be doing the work are responsible for the sizing. The Product Owner may influence the Developers by helping them understand and select trade-offs.
 
-#### Commitment: Product Goal
+**Commitment: Product Goal**
 
 The Product Goal describes a future state of the product which can serve as a target for the Scrum Team to plan against. The Product Goal is in the Product Backlog. The rest of the Product Backlog emerges to define "what" will fulfill the Product Goal.
 
@@ -259,7 +258,7 @@ The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Back
 
 The Sprint Backlog is a plan by and for the Developers. It is a highly visible, real-time picture of the work that the Developers plan to accomplish during the Sprint in order to achieve the Sprint Goal. Consequently, the Sprint Backlog is updated throughout the Sprint as more is learned. It should have enough detail that they can inspect their progress in the Daily Scrum.
 
-#### Commitment: Sprint Goal
+**Commitment: Sprint Goal**
 
 The Sprint Goal is the single objective for the Sprint. Although the Sprint Goal is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it. The Sprint Goal also creates coherence and focus; encouraging the Scrum Team to work together rather than on separate initiatives.
 
@@ -273,7 +272,7 @@ Multiple Increments may be created within a Sprint. The sum of the Increments is
 
 Work cannot be considered part of an Increment unless it meets the Definition of Done.
 
-#### Commitment: Definition of Done
+**Commitment: Definition of Done**
 
 The Definition of Done is a formal description of the state of the Increment when it meets the quality measures required for the product.
 
@@ -285,6 +284,6 @@ If the Definition of Done for an increment is part of the standards of the organ
 
 The Developers are required to conform to the Definition of Done. If there are multiple Scrum Teams working together on a product, they must mutually define and comply with the same Definition of Done.
 
-## Final thoughts
+## Final thoughts
 
 The Scrum framework, as outlined herein, is immutable. While implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety and functions well as a container for other techniques, methodologies and practices.
