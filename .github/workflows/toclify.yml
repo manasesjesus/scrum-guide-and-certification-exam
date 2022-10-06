@@ -1,0 +1,17 @@
+name: Table Of Contents
+
+on:
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  generateTOC:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+
+      - uses: technote-space/toc-generator@v4
+        with:
+          CREATE_PR: true
+          TARGET_PATHS: study-guide.md
