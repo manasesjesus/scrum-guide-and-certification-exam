@@ -1,12 +1,14 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+<details>
+<summary>Table of Contents</summary>
 
 - [Scrum Guide](#scrum-guide)
   - [The Definitive Guide to Scrum: The Rules of the Game](#the-definitive-guide-to-scrum-the-rules-of-the-game)
     - [Scrum Definition](#scrum-definition)
     - [Scrum Theory](#scrum-theory)
 
+</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Scrum Guide
