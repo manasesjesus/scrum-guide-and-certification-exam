@@ -13,3 +13,7 @@ In a nutshell, Scrum requires a Scrum Master to foster an environment where:
 2. The Scrum Team turns a selection of the work into an Increment of value during a Sprint.
 3. The Scrum Team and its stakeholders inspect the results and adjust for the next Sprint.
 4. Repeat
+
+### Scrum Theory
+
+Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials.
