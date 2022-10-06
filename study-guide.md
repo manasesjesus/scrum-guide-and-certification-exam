@@ -25,11 +25,9 @@
   - [Sprint Retrospective](#sprint-retrospective)
 - [Scrum Artifacts](#scrum-artifacts)
   - [Product Backlog](#product-backlog)
-    - [Commitment: Product Goal](#commitment-product-goal)
   - [Sprint Backlog](#sprint-backlog)
-    - [Commitment: Sprint Goal](#commitment-sprint-goal)
   - [Increment](#increment)
-    - [Commitment: Definition of Done](#commitment-definition-of-done)
+- [Final thoughts](#final-thoughts)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
