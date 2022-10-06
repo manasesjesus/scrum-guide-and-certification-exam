@@ -1,4 +1,5 @@
-
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 # Scrum Guide
 ## The Definitive Guide to Scrum: The Rules of the Game
