@@ -1,6 +1,38 @@
 # The Definitive Guide to Scrum
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Table of Contents</summary>
+
+- [Scrum Definition](#scrum-definition)
+- [Scrum Theory](#scrum-theory)
+  - [Transparency](#transparency)
+  - [Inspection](#inspection)
+  - [Adaptation](#adaptation)
+- [Scrum Values](#scrum-values)
+- [Scrum Team](#scrum-team)
+  - [Developers](#developers)
+  - [Product Owner](#product-owner)
+  - [Scrum Master](#scrum-master)
+- [Scrum Events](#scrum-events)
+  - [The Sprint](#the-sprint)
+  - [Sprint Planning](#sprint-planning)
+    - [Why is this Sprint valuable?](#why-is-this-sprint-valuable)
+    - [What can be Done this Sprint?](#what-can-be-done-this-sprint)
+    - [How will the chosen work get done?](#how-will-the-chosen-work-get-done)
+  - [Daily Scrum](#daily-scrum)
+  - [Sprint Review](#sprint-review)
+  - [Sprint Retrospective](#sprint-retrospective)
+- [Scrum Artifacts](#scrum-artifacts)
+  - [Product Backlog](#product-backlog)
+    - [Commitment: Product Goal](#commitment-product-goal)
+  - [Sprint Backlog](#sprint-backlog)
+    - [Commitment: Sprint Goal](#commitment-sprint-goal)
+  - [Increment](#increment)
+    - [Commitment: Definition of Done](#commitment-definition-of-done)
+
+</details>
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 ## Scrum Definition
 
 Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
