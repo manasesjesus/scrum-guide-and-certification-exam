@@ -14,4 +14,4 @@ jobs:
       - uses: technote-space/toc-generator@v4
         with:
           TARGET_PATHS: study-guide.md
-          FOLDING: true
+          #FOLDING: true
