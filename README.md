@@ -1,7 +1,7 @@
 ## Scrum Foundation Guide and Certification Exam
 
 <p align="center">
-  <img alt="badge" src="https://images.credly.com/size/680x680/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" width="150">
+  <a href="https://certiprof.com/pages/scrum-foundation-professional-certificate-sfpc-english" target="_blank"><img alt="badge" src="https://images.credly.com/size/680x680/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" width="150"></a>
 </p>
 
 ### [Study guide](study-guide.md)
