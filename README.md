@@ -12,6 +12,6 @@ The Scrum framework, as outlined herein, is immutable. While implementing only p
 
 All the information contained in the study guide has been gathered from different sources such as the [Agile Manifesto](http://www.agilemanifesto.org/), [Agile Glossary](https://www.agilealliance.org/agile101/agile-glossary/), several books, et al.
 
-### Exam
+### [Certification exam](certiprof-exam.md)
 
-The exam questions are similar to those in the certification exam and has been taken from the [study guide](study-guide.md), as well as the [example questions](https://static1.squarespace.com/static/603947036accda5b0dbeb78b/t/614ca1c02abb056fd30cb921/1632412097686/Sample+Exam+SFPC+%28V092021%29+SP.pdf) from CertiProf.
+The exam questions are similar to those in the certification exam and have been taken from the [study guide](study-guide.md), as well as the [example questions](https://sampleexams.certiprof.com/scrum-foundation-1-spanish) from CertiProf.
