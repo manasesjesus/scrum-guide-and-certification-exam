@@ -4,8 +4,7 @@ The Scrum Guide contains the definition of Scrum. Each element of the framework 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
+**Table of Contents**
 
 - [Scrum Definition](#scrum-definition)
 - [Scrum Theory](#scrum-theory)
@@ -30,9 +29,7 @@ The Scrum Guide contains the definition of Scrum. Each element of the framework 
   - [Product Backlog](#product-backlog)
   - [Sprint Backlog](#sprint-backlog)
   - [Increment](#increment)
-- [Final thoughts](#final-thoughts)
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Scrum Definition
