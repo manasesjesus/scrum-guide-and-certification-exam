@@ -1,8 +1,10 @@
 # The Definitive Guide to Scrum
+
+The Scrum Guide contains the definition of Scrum. Each element of the framework serves a specific purpose that is essential to the overall value and results realized with Scrum.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
+**Table of Contents**
 
 - [Scrum Definition](#scrum-definition)
 - [Scrum Theory](#scrum-theory)
@@ -27,9 +29,7 @@
   - [Product Backlog](#product-backlog)
   - [Sprint Backlog](#sprint-backlog)
   - [Increment](#increment)
-- [Final thoughts](#final-thoughts)
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Scrum Definition
@@ -283,7 +283,3 @@ The Definition of Done creates transparency by providing everyone a shared under
 If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product.
 
 The Developers are required to conform to the Definition of Done. If there are multiple Scrum Teams working together on a product, they must mutually define and comply with the same Definition of Done.
-
-## Final thoughts
-
-The Scrum framework, as outlined herein, is immutable. While implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety and functions well as a container for other techniques, methodologies and practices.
